@@ -36,3 +36,8 @@ body {
 .detail { margin-top: 12px; }
 .legend { margin: 10px 0 0; padding-left: 18px; line-height: 1.6; }
 .foot { margin-top: 16px; opacity: .6; }
+
+.author {
+  opacity: 0.7;
+  letter-spacing: 0.05em;
+}
